@@ -6,7 +6,8 @@
 [ZBlue@bluebrotech.net](https://github.com/BlueBroTech) (BlueBroTech, LLC).*
 
 ZAckML is a generic, extensible markup language in the XML family — no predefined tag names — paired with an optional in-band pattern reference system that attaches HTML-like semantics to tags on demand.
-
+* The pattern system works like compression keys, where short tag names get expanded into full semantic meanings through pattern references.
+* The "tags" themselves are compressed keywords that decompress into their full semantic meaning via the pattern function.
 ```zackml
 <?zackml version="1.0" ?>
 <?pattern src="html-basic.pat" ?>
