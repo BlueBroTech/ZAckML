@@ -3,7 +3,7 @@
 **Zack's Actionable "compression key-like" Markup Language.**
 
 *Created by [VonBluebaugh](https://github.com/VonBluebaugh) - 
-[ZBlue@bluebrotech.net](https://github.com/BlueBroTech)(BlueBroTech, LLC).*
+[ZBlue@bluebrotech.net](https://github.com/BlueBroTech) (BlueBroTech, LLC).*
 
 ZAckML is a generic, extensible markup language in the XML family — no predefined tag names — paired with an optional in-band pattern reference system that attaches HTML-like semantics to tags on demand.
 
