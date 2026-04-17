@@ -72,4 +72,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Short version: open an issue before non-
 
 ## License
 
-[MIT](LICENSE). Copyright © 2026 Zack VonBluebaugh (BlueBroTech, LLC).
+[MIT](LICENSE). Copyright © 2026 VonBluebaugh (BlueBroTech, LLC).
